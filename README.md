@@ -1,4 +1,4 @@
-# twitter-clone
+# Twitter Clone with Blockchain
 Welcome to our innovative Twitter clone, where cutting-edge technology meets social media. This project, developed using TypeScript, Tailwind CSS, and Hardhat, combines the familiarity of Twitter's user interface with the security and transparency of blockchain technology.
 
 Overview
